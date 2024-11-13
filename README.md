@@ -1,5 +1,5 @@
 ![logo](https://github.com/Amit-477/Amit-477/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner%20(1).png)
-<h1 aline="center"> Hi,I'm Amit <h3>
+<h1 align="center"> Hi,I'm Amit <h3>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-477&label=Profile%20views&color=0e75b6&style=flat" alt="amit-477" /> </p>
 
